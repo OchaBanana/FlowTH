@@ -91,7 +91,7 @@ Pulse Secure VPN Client
   - Direct Download\
      - :download:`Windows 32 bit <download/PulseSecure.Windows32bit.msi>`
      - :download:`Windows 64 bit <download/PulseSecure.Windows64bit.msi>`
-     - :download:`Mac OS <download/PulseSecureMAC.zip>`
+     - :download:`Mac OS <download/PulseSecureMAC.dmg>`
 
 3. Download and install client
 4. Logout of the Web UI
