@@ -88,7 +88,7 @@ Pulse Secure VPN Client
 
 1. หากผู้เรียนที่ใช้งาน Pulse Secure VPN อยู่แล้ว ให้ข้ามไปที่ขั้นตอนที่ 5
 2. ไป download client เพื่อติดตั้งได้ที่ https://xlv-blr.xlabs.nutanix.com/ ด้วย Username & Password ด้านล่าง\
-  - Direc Download\
+  - Direct Download\
      - :download:`Windows 32 bit <download/PulseSecure.Windows32bit.msi>`
      - :download:`Windows 64 bit <download/PulseSecure.Windows64bit.msi>`
      - :download:`Mac OS <download/PulseSecureMAC.zip>`
