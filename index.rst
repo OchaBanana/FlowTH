@@ -97,9 +97,9 @@ Pulse Secure VPN Client
 #. Download and install client
 #. Logout of the Web UI
 #. เปิด client แล้ว ADD connection ตามข้อมูลต่อไปนี้:\
-    - :Type: Policy Secure (UAC) or Connection Server(VPN)\
-    - :Name: X-Labs - BLR
-    - :Server URL: xlv-blr.xlabs.nutanix.com\
+    - **Type:** Policy Secure (UAC) or Connection Server(VPN)\
+    - **Name:** X-Labs - BLR
+    - **Server URL:** xlv-blr.xlabs.nutanix.com\
 
 #. Once setup, login with the supplied credentials
 
